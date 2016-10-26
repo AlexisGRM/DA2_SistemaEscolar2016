@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ticutpp2016-001-site18" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Alexis\\documents\\visual\ studio\ 2015\\Projects\\DA2_SistemaEscolar2016\\DA2_SistemaEscolar2016\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Alexis\\documents\\visual\ studio\ 2015\\Projects\\DA2_SistemaEscolar2016\\DA2_SistemaEscolar2016\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DA2_SistemaEscolar2016.Models.ApplicationDbContext-Web.config Connection String" description="" value="Data Source=sql5026.smarterasp.net;Initial Catalog=DB_A09568_sistemaroque;Persist Security Info=True;User ID=DB_A09568_sistemaroque_admin;Password=alexis123" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Alexis\\documents\\visual\ studio\ 2015\\Projects\\DA2_SistemaEscolar2016\\DA2_SistemaEscolar2016\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DA2_SistemaEscolar2016.Models.ApplicationDbContext']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=SQL5026.SmarterASP.NET;Initial Catalog=DB_A09568_sistemaroque;User Id=DB_A09568_sistemaroque_admin;Password=alexis123;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Alexis\\documents\\visual\ studio\ 2015\\Projects\\DA2_SistemaEscolar2016\\DA2_SistemaEscolar2016\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
