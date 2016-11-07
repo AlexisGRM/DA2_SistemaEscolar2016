@@ -81,18 +81,6 @@ c:\users\ramon\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_
 c:\users\ramon\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\obj\Debug\DA2_SistemaEscolar2016.dll
 c:\users\ramon\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\obj\Debug\DA2_SistemaEscolar2016.pdb
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\ApplicationInsights.config
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\csc.exe
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\vbc.exe
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\VBCSCompiler.exe
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\DA2_SistemaEscolar2016.dll.config
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\DA2_SistemaEscolar2016.dll
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\DA2_SistemaEscolar2016.pdb
@@ -109,7 +97,6 @@ C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.Owin.dll
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.Owin.Security.Cookies.dll
@@ -135,7 +122,6 @@ C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.AI.Web.xml
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\System.Web.Helpers.xml
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\System.Web.Mvc.xml
 C:\Users\Alexis\documents\visual studio 2015\Projects\DA2_SistemaEscolar2016\DA2_SistemaEscolar2016\bin\System.Web.Optimization.xml

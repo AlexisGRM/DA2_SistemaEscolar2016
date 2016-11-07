@@ -49,7 +49,7 @@ namespace DA2_SistemaEscolar2016.Controllers
             //consultar la lista de alumnos
             //select * FROM alumnos
             var todosLosAlumnos = db.alumnos.ToList();
-
+           
 
             //pedirle a la lista que muestre los resultados en pantalla
 
